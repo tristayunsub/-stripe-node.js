@@ -28,3 +28,7 @@ https://www.youtube.com/watch?v=pmAOsDhZk6M&ab_channel=%EB%A3%A8%EC%9B%80A
 https://developer.pay.naver.com/docs/v2/api#getstartedS
 
 네이버페이 개발자센터
+
+
+Paypal php
+https://dev-overload.tistory.com/37?category=841810
