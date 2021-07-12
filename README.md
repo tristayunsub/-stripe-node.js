@@ -24,3 +24,7 @@ https://tyrannocoding.tistory.com/43?category=896661
 
 https://www.youtube.com/watch?v=pmAOsDhZk6M&ab_channel=%EB%A3%A8%EC%9B%80A
 아임포트와 STRIPE 결제방식 차이점?
+
+https://developer.pay.naver.com/docs/v2/api#getstartedS
+
+네이버페이 개발자센터
