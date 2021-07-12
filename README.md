@@ -1,1 +1,1 @@
-# -stripe-node.js
+# 결제 기능구현 stripe-node.js
