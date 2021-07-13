@@ -32,3 +32,7 @@ https://developer.pay.naver.com/docs/v2/api#getstartedS
 
 Paypal php
 https://dev-overload.tistory.com/37?category=841810
+
+
+https://www.youtube.com/watch?v=YBXFRSAXScs&list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL&index=7&ab_channel=%ED%86%A0%EC%8A%A4
+토스 SLASH21
